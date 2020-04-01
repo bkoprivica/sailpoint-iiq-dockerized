@@ -1,4 +1,4 @@
-Sailpoint Identity IQ Dockerized
+Dockerized Sailpoint Identity IQ
 ================================
 # Prerequisites
 
